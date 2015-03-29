@@ -1,0 +1,7 @@
+VAR_1 = int(input("Enter integer value:"))
+print(("you entered:",VAR_1))
+VAR_1 = input("Enter your name:")
+print("your name is:",VAR_1)
+var_2 = float(input("Enter any float value 'a':"))
+print("integer value is:")
+print(int(var_2))
